@@ -17,6 +17,8 @@
     "hoek": "4.x.x",
     "isemail": "3.x.x",
     "items": "2.x.x",
+    "lab": "^14.1.1",
+    "net": "^1.0.2",
     "topo": "2.x.x"
   },
   "devDependencies": {
